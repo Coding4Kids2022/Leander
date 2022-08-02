@@ -1,0 +1,8 @@
+{
+"description": "Viele Planeten",
+"image": "",
+"name": "Unser Sonnersystem",
+"attributes": [
+  {"trait_type": "Planeten", "value": "sehr viele"}
+  ]
+}
