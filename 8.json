@@ -1,0 +1,8 @@
+{
+"description": "Römische Skulptur mit Militärmuster",
+"image": "https://github.com/Coding4Kids2022/Leander/blob/main/8.png?raw=true",
+"name": "Militär Skulptur",
+"attributes": [
+  {"trait_type": "Hintergrund", "value": "Weiß und Gelb"}
+  ]
+}
