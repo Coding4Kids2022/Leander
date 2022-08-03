@@ -1,0 +1,8 @@
+{
+"description": "Alles Papier",
+"image": "https://github.com/Coding4Kids2022/Leander/blob/main/6.png?raw=true",
+"name": "Origami",
+"attributes": [
+  {"trait_type": "Tiere", "value": "Papier"}
+  ]
+}
