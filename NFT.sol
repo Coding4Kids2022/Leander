@@ -18,7 +18,7 @@ contract NFT is ERC721 {
         public payable
     {   
         if (msg.value>10 ether) {
-            require (NFTs_schon_gekauft[pictur_number]<=50);
+            require (NFTs_schon_gekauft[pictur_number]<=100);
         _safeMint(recipient, pictur_number);
         NFTs_schon_gekauft[pictur_number]+=1;
         payable(0xd771a9bE526776B4855D69ED97c50da90C87ACf7).transfer(msg.value);
